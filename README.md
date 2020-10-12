@@ -4,20 +4,20 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruroot&layout=compact&exclude_repo=PingMeRN"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=rafacdomin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=lahiruroot&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
 
 <a href="https://www.linkedin.com/in/lahiru-udawaththa-630155147/">
-  <img src="https://img.shields.io/badge/-Rafael_Domingues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru-udawaththa-630155147/" />
+  <img src="https://img.shields.io/badge/-lahiru-udawaththa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru-udawaththa-630155147/"/>
 </a>
 <a href="mailto:lahiruudawaththa8@gmail.com">
   <img src="https://img.shields.io/badge/-lahiruudawaththa8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lahiruudawaththa8@gmail.com" />
