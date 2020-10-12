@@ -1,4 +1,3 @@
-<img src="https://github.com/rafacdomin/rafacdomin/blob/master/github/BioMe.gif?raw=true"/>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
