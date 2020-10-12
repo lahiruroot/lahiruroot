@@ -1,16 +1,37 @@
+<img src="https://github.com/rafacdomin/rafacdomin/blob/master/github/BioMe.gif?raw=true"/>
 
-### Hi there 👋
-**lahiruroot/lahiruroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=rafacdomin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
 
+<a href="https://www.linkedin.com/in/lahiru-udawaththa-630155147/">
+  <img src="https://img.shields.io/badge/-Rafael_Domingues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru-udawaththa-630155147/" />
+</a>
+<a href="mailto:lahiruudawaththa8@gmail.com">
+  <img src="https://img.shields.io/badge/-lahiruudawaththa8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lahiruudawaththa8@gmail.com" />
+</a>
+<a href="https://dev.to/lahiruroot">
+  <img src="https://img.shields.io/badge/DEV.to-lahiruroot-black" />
+</a>
+<a href="https://github.com/lahiruroot">
+  <img src="https://img.shields.io/github/followers/lahiruroot?label=Follow&style=social" />
+</a>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-kavinduyasintha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-kavindu-yasintha-sliva)](https://www.linkedin.com/in/lahiru-udawaththa-630155147/)
-<a href="https://www.instagram.com/devstudio.lk/"></a>
-<a href="https://www.facebook.com/lahiruudawathhta98></a>
+---
+<br />
 
->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lahiruroot)]
-
-<!--
-
-**lahiruroot/lahiruroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I'm currently available for work.
+- 🌱 Learning more about and studying: **ReactJS, React Native and NodeJS.**
+- :purple_heart: Interests: **Games 🎮, Music 🎵, Movies 🎬.**
