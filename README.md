@@ -16,8 +16,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/lahiru-udawaththa-630155147/">
-  <img src="https://img.shields.io/badge/-lahiru-udawaththa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru-udawaththa-630155147/"/>
-</a>
+  <img src="https://img.shields.io/badge/-lahiru-udawaththa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru-udawaththa/" /></a>
 <a href="mailto:lahiruudawaththa8@gmail.com">
   <img src="https://img.shields.io/badge/-lahiruudawaththa8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lahiruudawaththa8@gmail.com" />
 </a>
