@@ -9,7 +9,7 @@
 
 >
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kavindyasinthasilva)](https://play.google.com/store/apps/details?id=com.kavinduyasintha.beauty)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lahiruroot)]
 
 <!--
 
