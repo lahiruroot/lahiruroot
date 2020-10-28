@@ -1,5 +1,6 @@
 <img src="https://github.com/lahiruroot/lahiruroot/blob/main/biogif/Blue%20Illustrated%20General%20Grocery%20Supplies%20Online%20Service%20Grocery%20Facebook%20Cover.gif"/>
 <hr>
+<p align="center">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"
@@ -23,6 +24,7 @@
             height="40" /> </a>  <a href="https://www.photoshop.com/en" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop"
             width="40" height="40" /> </a> </p>
+</p>
 <hr>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
