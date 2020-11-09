@@ -12,6 +12,8 @@
             src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
     </a> <a href="https://angular.io/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="flutter" width="40" height="40" />
+    </a> <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="flutter" width="40" height="40" />
     </a> <a href="https://cloud.google.com" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
             height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
