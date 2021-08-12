@@ -1,3 +1,4 @@
+<div>
 <h1 aling="left">
             Im Lahiru Udawaththa
             <h1/>
@@ -17,7 +18,7 @@
   <img src="https://img.shields.io/github/followers/lahiruroot?label=Follow&style=social" />
 </a>
 <h2/>
-                      
+<div/>                    
 <hr>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -61,7 +62,12 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 <br>
-<p align="center">
+
+- 👨‍💻 I'm currently available for Study.
+- 🌱 Learning more about and studying: **ReactJS, React Native and NodeJS.**
+- :purple_heart: Interests: **Games 🎮, Music 🎵, Movies 🎬.**
+            
+<!-- <p align="center">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
@@ -76,8 +82,5 @@
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
             width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"/> </a> </p>
-</p>
+</p> -->
 
-- 👨‍💻 I'm currently available for Study.
-- 🌱 Learning more about and studying: **ReactJS, React Native and NodeJS.**
-- :purple_heart: Interests: **Games 🎮, Music 🎵, Movies 🎬.**
