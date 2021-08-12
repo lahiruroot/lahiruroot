@@ -1,21 +1,23 @@
-
-<hr>
-<p align="center">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank">
-            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a> <a href="https://flutter.dev" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-    </a> <a href="https://angular.io/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="flutter" width="40" height="40" />
-    </a> <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="flutter" width="40" height="40" />
-    </a> <a href="https://cloud.google.com" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"/> </a> </p>
-</p>
+<h1 aling="left">
+            Im Lahiru Udawaththa
+            <h1/>
+<h2 aling="left">
+            My Social links
+            <br>
+            <a href="https://www.linkedin.com/in/lahiru-udawaththa/">
+  <img src="https://img.shields.io/badge/-lahiru_udawaththa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru_udawaththa-630155147/" />
+</a>
+<a href="mailto:lahiruudawaththa8@gmail.com">
+<img src="https://img.shields.io/badge/-lahiruudawaththa8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lahiruudawaththa8@gmail.com" />
+</a>
+<a href="https://dev.to/lahiruroot">
+<img src="https://img.shields.io/badge/DEV.to-lahiruroot-black" />
+</a>
+<a href="https://github.com/lahiruroot">
+  <img src="https://img.shields.io/github/followers/lahiruroot?label=Follow&style=social" />
+</a>
+<h2/>
+                      
 <hr>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -32,22 +34,9 @@
     />
   </a>
 </p>
-
-<a href="https://www.linkedin.com/in/lahiru-udawaththa/">
-  <img src="https://img.shields.io/badge/-lahiru_udawaththa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru_udawaththa-630155147/" />
-</a>
-<a href="mailto:lahiruudawaththa8@gmail.com">
-  <img src="https://img.shields.io/badge/-lahiruudawaththa8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lahiruudawaththa8@gmail.com" />
-</a>
-<a href="https://dev.to/lahiruroot">
-  <img src="https://img.shields.io/badge/DEV.to-lahiruroot-black" />
-</a>
-<a href="https://github.com/lahiruroot">
-  <img src="https://img.shields.io/github/followers/lahiruroot?label=Follow&style=social" />
-</a>
-<br>
-<hr>
-
+            
+            
+            
 ### Skills : <br/>
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -71,7 +60,23 @@
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-
+<br>
+<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank">
+            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+    </a> <a href="https://flutter.dev" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+    </a> <a href="https://angular.io/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="flutter" width="40" height="40" />
+    </a> <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="flutter" width="40" height="40" />
+    </a> <a href="https://cloud.google.com" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
+            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank"/> </a> </p>
+</p>
 
 - 👨‍💻 I'm currently available for work.
 - 🌱 Learning more about and studying: **ReactJS, React Native and NodeJS.**
