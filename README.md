@@ -1,4 +1,4 @@
-<img src=""/>
+
 <hr>
 <p align="center">
 <h3 align="left">Languages and Tools:</h3>
