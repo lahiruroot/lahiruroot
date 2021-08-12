@@ -5,7 +5,8 @@
 <h2 aling="left">
             My Social links
             <br>
-            <a href="https://www.linkedin.com/in/lahiru-udawaththa/">
+<h2/>
+   <a href="https://www.linkedin.com/in/lahiru-udawaththa/">
   <img src="https://img.shields.io/badge/-lahiru_udawaththa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru_udawaththa-630155147/" />
 </a>
 <a href="mailto:lahiruudawaththa8@gmail.com">
@@ -17,7 +18,6 @@
 <a href="https://github.com/lahiruroot">
   <img src="https://img.shields.io/github/followers/lahiruroot?label=Follow&style=social" />
 </a>
-<h2/>
 <div/>                    
 <hr>
 <p align="center">
