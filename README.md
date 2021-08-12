@@ -60,6 +60,7 @@
 </a>
 <br>
 <hr>
+
 ### Skills : <br/>
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -83,8 +84,7 @@
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
----
-<br />
+
 
 - 👨‍💻 I'm currently available for work.
 - 🌱 Learning more about and studying: **ReactJS, React Native and NodeJS.**
