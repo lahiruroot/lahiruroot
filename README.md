@@ -78,6 +78,6 @@
         target="_blank"/> </a> </p>
 </p>
 
-- 👨‍💻 I'm currently available for work.
+- 👨‍💻 I'm currently available for Study.
 - 🌱 Learning more about and studying: **ReactJS, React Native and NodeJS.**
 - :purple_heart: Interests: **Games 🎮, Music 🎵, Movies 🎬.**
