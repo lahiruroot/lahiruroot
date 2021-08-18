@@ -1,7 +1,6 @@
 <div>
-<h1 aling="left">
-            Im Lahiru Udawaththa
-            <h1/>
+            <h1 align="left">Hi 👋,  Im Lahiru Udawaththa</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiruroot&color=brightgreen" alt="lahiruroot" /> </p>
 <h2 aling="left">
             My Social links
