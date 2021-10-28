@@ -37,6 +37,14 @@
 </p> -->
                        
 ### Skills : <br/>
+            
+            
+ <div align=right>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruroot&langs_count=20&theme=highcontrast&layout=compact&custom_title=Most used languages on GitHub" />
+    </a>
+</div>
+            
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
