@@ -66,25 +66,3 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 <br>
-
-- 👨‍💻 I'm currently available for Study.
-- 🌱 Learning more about and studying: **ReactJS, React Native and NodeJS.**
-- :purple_heart: Interests: **Games 🎮, Music 🎵, Movies 🎬.**
-            
-<!-- <p align="center">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank">
-            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a> <a href="https://flutter.dev" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-    </a> <a href="https://angular.io/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="flutter" width="40" height="40" />
-    </a> <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="flutter" width="40" height="40" />
-    </a> <a href="https://cloud.google.com" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"/> </a> </p>
-</p> -->
-
