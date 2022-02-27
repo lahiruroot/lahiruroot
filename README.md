@@ -3,7 +3,6 @@
 
 <a href="https://app.daily.dev/lahiruroot"><img src="https://api.daily.dev/devcards/2e43a4e1d3cf48e5a1615a97e8680daf.png?r=2ni" width="400" alt="Lahiru Udawaththa's Dev Card"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiruroot&color=brightgreen" alt="lahiruroot" /> </p>
 <h2 aling="left">
             My Social links
             <br>
