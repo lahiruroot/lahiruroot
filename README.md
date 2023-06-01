@@ -5,6 +5,9 @@
 [![](https://visitcount.itsvg.in/api?id=lahiruroot&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=lahiruroot&data=followers,repositories,stars,commits'>
+</p>            
             
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31fh5xnzybfkq3fnsdrs4ks2kzgy&count=1)
             
