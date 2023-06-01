@@ -1,7 +1,7 @@
 <div>
            
 <p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=lahiruroot&data=followers,repositories,stars,commits,organizations'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=lahiruroot&data=followers,repositories,stars,commits'>
 </p>           
       
 [![](https://visitcount.itsvg.in/api?id=lahiruroot&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
