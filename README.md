@@ -7,7 +7,7 @@
 [![](https://visitcount.itsvg.in/api?id=lahiruroot&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
                      
-![Spotify recently played]((https://spotify-github-profile.vercel.app/api/view.svg?uid=31fh5xnzybfkq3fnsdrs4ks2kzgy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31fh5xnzybfkq3fnsdrs4ks2kzgy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)https://spotify-github-profile.vercel.app/api/view.svg?uid=31fh5xnzybfkq3fnsdrs4ks2kzgy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31fh5xnzybfkq3fnsdrs4ks2kzgy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fh5xnzybfkq3fnsdrs4ks2kzgy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
           
 <img src="https://education.github.com/assets/next/campus-experts/ce-flag-59b436097e6168e12b543fec9e936037ff777d1c0160fa4b07cd7394d8779418.png" width=55px align="right"/>
