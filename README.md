@@ -14,5 +14,37 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
             
- 
+ <!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...`
+-->
+
+<img src="https://github.com/totallynotadi/totallynotadi/blob/main/argonaut0.png" width="250" height="290" align="left"/>
+
+<!-- <img src="argonaut0.png" width="250" height="290" align="left"/> -->
+
+```js
+lahiruroot@github: ~ $ whoami
+──────────────────────────────────────────────
+
+os       • Manjaro x86_64
+shell    • bash 3.3.1
+
+pronouns • he/him
+
+learning • Flutter, React, Node.js, Angular,
+
+hobbies  • music, design, photography.
+           
+discord  • lahiruroot
+
+```
+
+---
 
