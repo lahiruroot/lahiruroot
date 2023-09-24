@@ -1,25 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Lahiru+Udawththa;%F0%9F%8C%9F+I+love+building+software+that+solves+real-world+problems.;%F0%9F%92%A1+I'm+constantly+learning+and+exploring+new+technologies.;%F0%9F%9A%80+Let's+connect+and+collaborate+on+some+exciting+projects!;%F0%9F%93%AB+Reach+out+to+me+to+discuss+anything+tech-related!)](https://git.io/typing-svg)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->           
-<img src="https://github.com/totallynotadi/totallynotadi/blob/main/argonaut0.png" width="250" height="290" align="left"/>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Lahiru+Udawththa;%F0%9F%8C%9F+I+love+building+software+that+solves+real-world+problems.;%F0%9F%92%A1+I'm+constantly+learning+and+exploring+new+technologies.;%F0%9F%9A%80+Let's+connect+and+collaborate+on+some+exciting+projects!;%F0%9F%93%AB+Reach+out+to+me+to+discuss+anything+tech-related!" alt="Typing SVG" />
+</a>
+</p>
 
-<!-- <img src="argonaut0.png" width="250" height="290" align="left"/> -->
-
-```js
-lahiruroot@github: ~ $ whoami
-──────────────────────────────────────────────
-
-bio • Code enthusiast 🚀 | GitHub explorer 🌟 | Committing to excellence 🖥️
-
-pronouns • he/him
-
-learning • Flutter, React, Node.js, Angular,
-
-hobbies  • music, design, photography.
-           
-discord  • lahiruroot
-
-```
-
----
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fh5xnzybfkq3fnsdrs4ks2kzgy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=2841bd&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=lahiruroot&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
+  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=lahiruroot&custom_title=Lahiru's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=lahiruroot&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+</div>
