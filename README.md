@@ -7,6 +7,8 @@
 lahiruroot@github: ~ $ whoami
 ──────────────────────────────────────────────
 
+bio • Code enthusiast 🚀 | GitHub explorer 🌟 | Committing to excellence 🖥️
+
 pronouns • he/him
 
 learning • Flutter, React, Node.js, Angular,
