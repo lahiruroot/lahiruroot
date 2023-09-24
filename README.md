@@ -7,9 +7,6 @@
 lahiruroot@github: ~ $ whoami
 ──────────────────────────────────────────────
 
-os       • Manjaro x86_64
-shell    • bash 3.3.1
-
 pronouns • he/him
 
 learning • Flutter, React, Node.js, Angular,
