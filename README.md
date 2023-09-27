@@ -8,7 +8,5 @@
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=lahiruroot&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
   <img width="370px" src="https://github-readme-stats.vercel.app/api?username=lahiruroot&custom_title=Lahiru's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
-
-<div align="center">
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lahiruroot&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats) </div>
-
+  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=lahiruroot&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+</div>
