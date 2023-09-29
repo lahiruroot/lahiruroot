@@ -18,10 +18,9 @@
     <img src="https://skillicons.dev/icons?i=react,vite,vue,angular,flutter,dart,kotlin,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,gcp,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,rust" />
   </a>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,githubactions,git,stackoverflow,devto,bots" />
+    <img src="https://skillicons.dev/icons?i=github,githubactions,git,stackoverflow,devto,bots,vscode,idea,figma" />
   </a>
 </p>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lahiruroot&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
