@@ -18,3 +18,6 @@
 </p>
 
 
+<p align="center">
+<a href="https://app.daily.dev/lahiruroot"><img src="https://api.daily.dev/devcards/v2/EelnufYZepx0nOJMuoQEA.png?type=wide&r=e52" width="652" alt="Lahiru Udawaththa's Dev Card"/></a>
+</p>
